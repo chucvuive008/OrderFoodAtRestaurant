@@ -1,0 +1,8 @@
+﻿1,Pho, 8.99, Main
+2,Hu Tieu, 8.99, Main
+3,Cha Gio, 4.99, Appertizer
+4,Goi Cuon, 4.99, Appetizer
+5,Che, 3.99, Dezert
+6,Coke,1.99, Drink
+7,Water, 0.0 , Drink
+8,Tra Da, 0.99, Drink
